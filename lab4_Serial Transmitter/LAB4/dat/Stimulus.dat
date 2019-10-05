@@ -1,0 +1,10 @@
+01      // stimulus signal 0 : pi_msb is 0, pi_low is 1 
+00      // stimulus signal 1 : pi_msb is 0, pi_low is 0 
+00      // stimulus signal 2 : pi_msb is 0, pi_low is 0 
+10      // stimulus signal 3 : pi_msb is 1, pi_low is 0 
+00      // stimulus signal 4 : pi_msb is 0, pi_low is 0 
+00      // stimulus signal 5 : pi_msb is 0, pi_low is 0 
+10      // stimulus signal 6 : pi_msb is 1, pi_low is 0 
+01      // stimulus signal 7 : pi_msb is 0, pi_low is 1 
+10      // stimulus signal 8 : pi_msb is 1, pi_low is 0 
+11      // stimulus signal 9 : pi_msb is 1, pi_low is 1 
