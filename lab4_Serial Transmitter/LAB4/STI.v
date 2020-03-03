@@ -62,13 +62,13 @@ always@(*)
               nxt_st=orig;
   
       work : case(sel) 
-              2'b00,2'b10 : 
-                     if(counter==5'd7)
+				2'b00,2'b10 : 
+					if(counter==5'd7)
                         nxt_st=orig;
-                     else
-                        nxt_st=work;
+                    else
+						nxt_st=work;
                        
-              2'b01,2'b11 : 
+                2'b01,2'b11 : 
                     if(counter==5'd15)
                         nxt_st=orig;
                     else
